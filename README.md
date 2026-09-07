@@ -138,6 +138,28 @@ Trained_Models/
 
 ---
 
+## 📦 Processed Data
+
+The processed RRI datasets and large pretrained model files are available on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22572206.svg)](https://doi.org/10.5281/zenodo.22572206)
+
+**Zenodo:** https://doi.org/10.5281/zenodo.22572206
+
+Download the files and place them in the corresponding directories:
+
+```text
+Data/
+├── structured_dataset_1hz.pt
+├── structured_dataset_4hz.pt
+├── structured_dataset_ectopic.pt
+└── subject_folds.pt
+
+Trained_Models/
+└── resnet1d/
+
+---
+
 ## Citation
 
 If you find this repository useful, please cite:
