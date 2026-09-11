@@ -157,10 +157,11 @@ Data/
 
 Trained_Models/
 └── resnet1d/
+```
 
 ---
 
-## Citation
+## 📄 Citation
 
 If you find this work or code useful for your research, please consider citing our paper:
 
@@ -173,4 +174,6 @@ If you find this work or code useful for your research, please consider citing o
   journal={arXiv preprint arXiv:2609.06984},
   year={2026}
 }
+```
+
 ```
