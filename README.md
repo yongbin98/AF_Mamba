@@ -159,3 +159,18 @@ Trained_Models/
 └── resnet1d/
 
 ---
+
+## Citation
+
+If you find this work or code useful for your research, please consider citing our paper:
+
+**Y. Lee and K. H. Chon, "AF-Mamba: Efficient Long-Term Signal Modeling for Early Prediction of Atrial Fibrillation Onset," arXiv preprint arXiv:2609.06984, 2026.**
+
+```bibtex
+@article{lee2026afmamba,
+  title={AF-Mamba: Efficient Long-Term Signal Modeling for Early Prediction of Atrial Fibrillation Onset},
+  author={Lee, Yongbin and Chon, Ki H.},
+  journal={arXiv preprint arXiv:2609.06984},
+  year={2026}
+}
+```
